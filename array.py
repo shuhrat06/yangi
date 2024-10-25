@@ -14,3 +14,5 @@ print(f"2-massiv sonlari:\n{sonxy}")
 print(f"1-massiv sonlar yig'indisi: {yigindi}")
 print(f"1-massiv sonlar o'rtacha qiymati: {oqiymat}")
 print(f"1-massiv sonlar ko'paytmasi: {kopaytma}")
+
+#Salom hammaga
